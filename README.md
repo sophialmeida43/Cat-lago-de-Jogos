@@ -1,6 +1,6 @@
 # 🎮 Catálogo de Jogos
 
-📌 Sobre o Projeto
+# 📌 Sobre o Projeto
 
 O Catálogo de Jogos é um projeto desenvolvido com HTML e CSS que tem como objetivo apresentar jogos de forma organizada, visualmente atrativa e intuitiva. A aplicação utiliza cards para exibir informações essenciais de cada jogo, como imagem, título e descrição.
 
